@@ -1,3 +1,0 @@
-Tao thu 1 file test
-pull thu len trang https://github.com
-dung SmartGit
