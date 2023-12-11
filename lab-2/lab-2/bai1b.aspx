@@ -36,7 +36,8 @@
                 </td>
         
                 <td>
-                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/bai-1b.jpg" Width="80%" Height="100px" /></td>
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/img/docbao.jfif" Width="80%" Height="100px" /></td>
+                    
             </tr>
                                     
             <tr class="row-2">

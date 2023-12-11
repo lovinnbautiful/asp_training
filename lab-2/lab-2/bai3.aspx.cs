@@ -22,7 +22,7 @@ namespace lab_2
         protected void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             string selectedValue = ListBox1.SelectedValue;
-            string imagePath = $"~/Images/{selectedValue}.jpg";
+            string imagePath = $"~/img/{selectedValue}.jpg";
             Image1.ImageUrl = imagePath;
         }
     }

@@ -84,6 +84,14 @@
     <Content Include="Css\bai5.css" />
     <Content Include="Css\bai6.css" />
     <Content Include="Css\bai9.css" />
+    <Content Include="img\docbao.jfif" />
+    <Content Include="img\hoa_bat_tu.jpg" />
+    <Content Include="img\hoa_cuc.jpg" />
+    <Content Include="img\hoa_lan.jpg" />
+    <Content Include="img\hoa_lys.jpg" />
+    <Content Include="img\hoa_sung.jpg" />
+    <Content Include="img\hoa_dam_but.jpg" />
+    <Content Include="img\hoa_hong.jpg" />
     <Content Include="Web.config" />
     <Content Include="bai1.aspx" />
   </ItemGroup>
